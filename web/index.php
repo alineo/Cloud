@@ -1,1 +1,1 @@
-<img src="dog.jpg" alt="Mountain View">
+<img src="comparatif.png" alt="Tableau comparatif">
